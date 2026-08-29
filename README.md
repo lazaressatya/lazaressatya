@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lazares Sathya</h1>
-<h3 align="center">A passionate AWS Devops Engineer from India</h3>
+<h3 align="center">A passionate AWS Devops Engineer</h3>
 
 - 🔭 I’m currently working on **DevOps Engineer**
 
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazaressatya&show_icons=true&locale=en" alt="lazaressatya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazaressatya&" alt="lazaressatya" /></p>
+
