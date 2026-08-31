@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **GitOps**
 
-- 📝 I regularly write articles on [Lazares Sathya](Lazares Sathya)
+- 📝 I regularly write articles on **Medium**
 
 - 💬 Ask me about **AWS**
 
